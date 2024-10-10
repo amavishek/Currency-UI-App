@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UIdesign2</string>
+    <string name="start">Start</string>
+    <string name="your_wallet">Your wallet</string>
+    <string name="login_into">Login into</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="re_enter_password">Re-Enter Password</string>
+    <string name="alerady_account">alerady account?</string>
+    <string name="google">Google</string>
+    <string name="login">login</string>
+    <string name="new_account">new account</string>
+    <string name="create_a">Create a</string>
+    <string name="signup">SignUp</string>
+    <string name="create_new_account">create new account</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="o">_-_-_</string>
+    <string name="invest">invest</string>
+    <string name="currency">Currency</string>
+    <string name="crypto">Crypto</string>
+</resources>
